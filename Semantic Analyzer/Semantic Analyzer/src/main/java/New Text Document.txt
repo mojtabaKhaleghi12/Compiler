@@ -1,0 +1,1 @@
+java -jar cup.jar java12.cup
